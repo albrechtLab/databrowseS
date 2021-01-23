@@ -2,7 +2,7 @@
 MATLAB scripts to visualize and explore matrices of data
 
 # Using Databrowse function
-In the UndergradRemoteProjects folder on the shared drive, we have provided a MATLAB function file that allows exploration of data with the ability to group by user-defined arrays.
+We are providing a MATLAB function that allows exploration of data with the ability to group by user-defined arrays.
 
 * Add the 'matlab' folder to the MATLAB path (see "set path" icon on home screen of matlab).
 
